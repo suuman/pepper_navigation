@@ -78,11 +78,13 @@ The navigation executables require two arguments:
 **For details, please refer to [docs/Pepper_Navigation_Reference_Manual.pdf](https://github.com/suuman/pepper_navigation/tree/main/docs/Pepper_Navigation_Reference_Manual.pdf) and README.MD at subfolders of this repository.**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## References
-[1]  Bista SR, Ward B, Corke P. Image-Based Indoor Topological Navigation with Collision Avoidance for Resource-Constrained Mobile Robots. Journal of Intelligent & Robotic Systems. 2021.
+[1]  Bista SR, Ward B, Corke P. Image-Based Indoor Topological Navigation with Collision Avoidance for Resource-Constrained Mobile Robots. Journal of Intelligent & Robotic Systems. 2021. [http://dx.doi.org/10.1007/s10846-021-01390-6](http://dx.doi.org/10.1007/s10846-021-01390-6).
 
 
-[2]  Bista SR, Giordano PR, Chaumette F. Appearance-based indoor navigation by IBVS using line segments. IEEE Robotics and Automation Letters. 2016 Jan 26;1(1):423-30.
+[2]  Bista SR, Giordano PR, Chaumette F. Appearance-based indoor navigation by IBVS using line segments. IEEE Robotics and Automation Letters. 2016 Jan 26;1(1):423-30. [https://doi.org/10.1109/LRA.2016.2521907](https://doi.org/10.1109/LRA.2016.2521907).
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###
