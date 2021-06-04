@@ -82,7 +82,8 @@ The navigation executables require two arguments:
 ## Related publications
 Please cite these publications if you find our system useful in your work.
 
- 1. Bista SR, Ward B, Corke P. Image-Based Indoor Topological Navigation with Collision Avoidance for Resource-Constrained Mobile Robots. Journal of Intelligent & Robotic Systems. 102,55(2021). [http://dx.doi.org/10.1007/s10846-021-01390-6](http://dx.doi.org/10.1007/s10846-021-01390-6).  
+ 1. Bista SR, Ward B, Corke P. Image-Based Indoor Topological Navigation with Collision Avoidance for Resource-Constrained Mobile Robots. Journal of Intelligent & Robotic Systems. 2021 June 3;102(3):55. [http://dx.doi.org/10.1007/s10846-021-01390-6](http://dx.doi.org/10.1007/s10846-021-01390-6).  
+ [PDF](https://rdcu.be/clUmX)  
 ```bibtex
 @ARTICLE{Bista_JINT_2021,  
   author={Bista, Suman Raj and Ward, Belinda and Corke, Peter},  
@@ -92,10 +93,12 @@ Please cite these publications if you find our system useful in your work.
   volume={102},  
   number={3},  
   pages={55},  
-  doi={10.1007/s10846-021-01390-6}}
+  doi={10.1007/s10846-021-01390-6}
+}
 ```
 
 2. Bista SR, Giordano PR, Chaumette F. Appearance-based indoor navigation by IBVS using line segments. IEEE Robotics and Automation Letters. 2016 Jan 26;1(1):423-30. [https://doi.org/10.1109/LRA.2016.2521907](https://doi.org/10.1109/LRA.2016.2521907).  
+ [PDF](https://hal.inria.fr/hal-01259750/document)   
 ```bibtex
 @ARTICLE{Bista_RAL_2016,  
   author={Bista, Suman Raj and Giordano, Paolo Robuffo and Chaumette, François},  
@@ -105,7 +108,9 @@ Please cite these publications if you find our system useful in your work.
   volume={1},  
   number={1},  
   pages={423-430},  
-  doi={10.1109/LRA.2016.2521907}}
+  issn={1573-0409},  
+  doi={10.1109/LRA.2016.2521907}
+}
 ```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
